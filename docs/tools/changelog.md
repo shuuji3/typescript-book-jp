@@ -1,10 +1,10 @@
 ## Changelog
 > プロジェクトの進捗状況をマークダウンで読むことは、コミットログを読むより簡単です。
 
-コミットメッセージからのChangelog生成は、今はかなり一般的なパターンです。[Convention-changelog](https://github.com/conventional-changelog/conventional-changelog)というプロジェクトがあり、*convention*に続くコミットメッセージからChangelogを生成します。
+コミットメッセージからのChangelog生成は、今はかなり一般的なパターンです。[conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)というプロジェクトがあり、*convention*に続くコミットメッセージからChangelogを生成します。
 
 ### コミットメッセージの規約
-もっとも一般的なのは、[*angular*のCommitメッセージ](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)の規約です。
+もっとも一般的なのは、[*angular*のコミットメッセージ](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)の規約です。
 
 ### セットアップ
 * インストール：
